@@ -10,4 +10,4 @@
 
 Cloud  | OS | Continuous Tools | SCM | App|
 -------|----|------------------|-----|----|
-![Aliyun](icon/aliyun.svg)|![Ubuntu](icon/ubuntu.svg)|![Docker](icon/docker.svg)**+** ![Jenkins](icon/jenkins.svg)|![Git](icon/git.svg)**+** ![Github](icon/github.svg)|![Nodejs](icon/nodejs.svg)**+** ![vue_angular_react](icon/vue+angular+react.svg)|
+![Aliyun](icon/aliyun.png)|![Ubuntu](icon/ubuntu.svg)|![Docker](icon/docker.svg)**+** ![Jenkins](icon/jenkins.svg)|![Git](icon/git.svg)**+** ![Github](icon/github.svg)|![Nodejs](icon/nodejs.svg)**+** ![vue_angular_react](icon/vue+angular+react.svg)|
