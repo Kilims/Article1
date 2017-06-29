@@ -3,6 +3,7 @@
 #### 效果
 
 >  在本地用 `git push` 上远程github仓库的时候，自动把代码build一次且部署到相应的服务器上
+>  查看App部署效果：http://www.kilims.tech:5000/
 
 Steps:
 1. 本地修改代码
