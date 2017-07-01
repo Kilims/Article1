@@ -58,3 +58,4 @@ Cloud  | OS | Continuous Tools | SCM | App|
  - [ ] git / npm 设置
  - [ ] docker / jenkins 设置 
  - [ ] 使用Jekins串起整个流程
+ - [ ] 科学上网的办法
