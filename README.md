@@ -51,11 +51,10 @@ Cloud  | OS | Continuous Tools | SCM | App|
 
 ***
 
- - [ ] 阿里云服务器获取、配置以及远程登录
- - [ ] 电脑装Ubuntu等linux系统
- - [ ] VMware装Ubuntu等linux系统
- - [ ] 本机(包括虚拟机)安装工具(git/nodejs/docker/jenkins)
- - [ ] git / npm 设置
- - [ ] docker / jenkins 设置 
- - [ ] 使用Jekins串起整个流程
- - [ ] 科学上网的办法
+ - [ ] 阿里云服务器调戏历程
+ - [ ] 本地电脑Linux调戏历程 -- 虚拟机篇
+ - [ ] 本地电脑Linux调戏历程 -- 真机装机篇
+ - [ ] 科学上网的办法--自撘梯子
+ - [ ] docker+Jenkins调戏历程(不搭梯子)
+ - [ ] node/npm/git调戏历程(不搭梯子)
+ - [ ] 自动化部署调戏历程
